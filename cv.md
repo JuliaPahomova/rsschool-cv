@@ -1,4 +1,4 @@
-Curriculum Vitae (CV)
+Curriculum Vitae
 1.  Julia, Pahomova
 2.  <j.v.kovaleva@gmail.com>, +375259144352
 3.  Skills: C++, QT, MFC, ATL, SQL, MYSQL, HTML, CSS, PHP, Functional testing
