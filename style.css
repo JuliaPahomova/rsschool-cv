@@ -1,0 +1,13 @@
+body {
+  background:#d0dcf3;
+}
+.block{
+	  max-width: 1024px;
+	  margin: 0 auto;
+	  font-family: "Times New Roman",Georgia,Serif;
+	  font-size: 18px;
+}
+.myphoto{
+	width: 220px;
+  height: 220px;
+}
