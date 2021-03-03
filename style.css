@@ -1,13 +1,58 @@
+
+ html{
+	box-sizing: border-box;
+}
+*,*::before, ::after{
+	box-sizing: inherit;
+}
 body {
   background:#d0dcf3;
+   margin: 0;
+  padding-top: 3em;
+  display: flex;
+  flex-direction: column;
+    margin: 0;
+	height: 100%;
 }
-.block{
+.wrapper{
 	  max-width: 1024px;
 	  margin: 0 auto;
 	  font-family: "Times New Roman",Georgia,Serif;
-	  font-size: 18px;
+	font-size: 18px;
+	text-align: center;
+	
+	flex-grow: 1;
+	
 }
 .myphoto{
 	width: 220px;
-  height: 220px;
+	height: 220px;
+	align-content: center;
 }
+.list{
+	list-style-type:square;
+	list-style-position:inside;
+
+}
+.footer {
+
+ background: #f7f7f7;
+  width: 100%;
+	text-align: center;
+	margin: auto;
+	
+  }
+  .link {
+    color:black; 
+	margin-right: 3%;
+   }
+   .link:visited {
+    color:rgb(0, 119, 128); 
+   }
+   a {
+    color:black; 
+   }
+   a:visited {
+    color:rgb(0, 119, 128); 
+   }
+     
